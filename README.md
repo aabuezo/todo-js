@@ -1,5 +1,18 @@
-# Webpack configurado
+# TODO List
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+Curso de Javascript de Fernando Herrera en udemy.
 
-Pero esto lo veremos en la siguiente sección
+Para usar este repositorio, ejecutar el comando:
+```
+npm install
+```
+
+Para crear la carpeta 'dist' para produccion ejecutar el comando:
+```
+npm run build
+```
+
+Para visualizarlo en el navegador local, ejecutar el comando:
+```
+npm start
+```
